@@ -11,6 +11,7 @@
 		4D4CF08F29D822B300FCE165 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4CF08E29D822B300FCE165 /* ContentView.swift */; };
 		4D4CF09129D822B500FCE165 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D4CF09029D822B500FCE165 /* Assets.xcassets */; };
 		4D4CF09429D822B500FCE165 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D4CF09329D822B500FCE165 /* Preview Assets.xcassets */; };
+		4D4CF09B29D827DA00FCE165 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4CF09A29D827DA00FCE165 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4D4CF08E29D822B300FCE165 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4D4CF09029D822B500FCE165 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D4CF09329D822B500FCE165 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4D4CF09A29D827DA00FCE165 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4D4CF08C29D822B300FCE165 /* githubdemoApp.swift */,
 				4D4CF08E29D822B300FCE165 /* ContentView.swift */,
+				4D4CF09A29D827DA00FCE165 /* SecondView.swift */,
 				4D4CF09029D822B500FCE165 /* Assets.xcassets */,
 				4D4CF09229D822B500FCE165 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D4CF09B29D827DA00FCE165 /* SecondView.swift in Sources */,
 				4D4CF08F29D822B300FCE165 /* ContentView.swift in Sources */,
 				4D4CF08D29D822B300FCE165 /* githubdemoApp.swift in Sources */,
 			);
